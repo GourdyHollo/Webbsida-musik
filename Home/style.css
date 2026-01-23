@@ -1,0 +1,172 @@
+body {
+    background-color:rgb(126, 92, 80);
+}
+
+.Songs {
+    background-color: rgb(171, 158, 123);
+    color: rgb(255, 252, 245);
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 5px;
+    text-shadow: 1px 1px 2px rgb(69, 66, 6);
+    padding: 10px;
+    font-style: initial;
+}
+
+.Autumn {
+    background-color: rgb(218, 158, 47);
+    color: white;
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    padding: 5px;
+
+    height: 300px;
+
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.Autumn h3 {
+    position: relative;
+    top: -7.5px;
+    left: 10px;
+    font-size: x-large;
+}
+.Autumn a {
+    color: white;
+}
+.Autumn a:hover {
+    color: rgb(136, 225, 177);
+}
+.Autumn img {
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    margin: 2px;
+    position: relative;
+    top: -10px
+}
+.Autumn ol {
+    background-color: rgb(190, 141, 51);
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    position: relative;
+    top: -261px;
+    left: 420px;
+    
+    width: 300px;
+
+    padding: 5px;
+    padding-left: 25px;
+
+    font-size: larger;
+}
+
+.TbRPG {
+    background-color: rgb(142, 189, 76);
+    color: white;
+    border: 2px solid rgb(53, 75, 19);
+    border-radius: 3px;
+    padding: 5px;
+    
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    height: 300px;
+}
+.TbRPG h3 {
+    position: relative;
+    top: -7.5px;
+    left: 10px;
+    font-size: x-large;
+}
+.TbRPG a {
+    color: white;
+}
+.TbRPG a:hover {
+    color:rgb(231, 133, 109);
+}
+.TbRPG img {
+    border: 2px solid rgb(53, 75, 19);
+    border-radius: 3px;
+    margin: 2px;
+    position: relative;
+    top: -10px
+}
+.TbRPG ol {
+    background-color: rgb(130, 165, 81);
+    border: 2px solid rgb(53, 75, 19);
+    border-radius: 3px;
+    position: relative;
+    top: -264.5px;
+    left: 245px;
+    
+    width: 300px;
+
+    padding: 5px;
+    padding-left: 25px;
+
+    font-size: larger;
+}
+.TbRPG ul {
+    background-color: rgb(130, 165, 81);
+    border: 2px solid rgb(53, 75, 19);
+    border-radius: 3px;
+    position: relative;
+    top: -264.5px;
+    left: 245px;
+    width: 300px;
+
+    padding: 5px;
+    padding-left: 25px;
+    
+    font-size: larger;
+}
+
+.PumpkinPies {
+    background-color: rgb(218, 158, 47);
+    color: white;
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    padding: 5px;
+
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+    height: 300px;
+}
+.PumpkinPies h3 {
+    position: relative;
+    top: -7.5px;
+    left: 10px;
+    font-size: x-large;
+}
+.PumpkinPies a {
+    color: white;
+}
+.PumpkinPies a:hover {
+    color: rgb(136, 225, 177);
+}
+.PumpkinPies img {
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    margin: 2px;
+    position: relative;
+    top: -10px
+}
+.PumpkinPies ol {
+    background-color: rgb(190, 141, 51);
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+    position: relative;
+    top: -261px;
+    left: 245px;
+    
+    width: 300px;
+
+    padding: 5px;
+    padding-left: 25px;
+
+    font-size: larger;
+}

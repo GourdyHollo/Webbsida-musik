@@ -1,9 +1,9 @@
 body {
-    background-color:rgb(126, 92, 80);
+    background-color:rgb(113, 84, 73);
 }
 
 .Songs {
-    background-color: rgb(171, 158, 123);
+    background-color: rgb(148, 137, 106);
     color: rgb(255, 252, 245);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 5px;
@@ -13,7 +13,7 @@ body {
 }
 
 .Autumn {
-    background-color: rgb(218, 158, 47);
+    background-color: rgb(235, 182, 84);
     color: white;
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
@@ -27,6 +27,13 @@ body {
 
 }
 .Autumn h3 {
+    background-color: rgb(204, 157, 70);
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+
+    padding: 5px;
+
+    width: 170px;
     position: relative;
     top: -7.5px;
     left: 10px;
@@ -36,21 +43,21 @@ body {
     color: white;
 }
 .Autumn a:hover {
-    color: rgb(136, 225, 177);
+    color: rgb(167, 238, 200);
 }
 .Autumn img {
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
     margin: 2px;
     position: relative;
-    top: -10px
+    top: -25px
 }
 .Autumn ol {
-    background-color: rgb(190, 141, 51);
+    background-color: rgb(204, 157, 70);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
     position: relative;
-    top: -261px;
+    top: -279.5px;
     left: 420px;
     
     width: 300px;
@@ -62,9 +69,9 @@ body {
 }
 
 .TbRPG {
-    background-color: rgb(142, 189, 76);
+    background-color: rgb(87, 154, 94);
     color: white;
-    border: 2px solid rgb(53, 75, 19);
+    border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     padding: 5px;
     
@@ -75,6 +82,14 @@ body {
     height: 300px;
 }
 .TbRPG h3 {
+    background-color: rgb(70, 131, 82);
+    border: 2px solid rgb(19, 75, 35);
+    border-radius: 3px;
+
+    padding: 5px;
+
+    width: 170px;
+
     position: relative;
     top: -7.5px;
     left: 10px;
@@ -84,21 +99,21 @@ body {
     color: white;
 }
 .TbRPG a:hover {
-    color:rgb(231, 133, 109);
+    color:rgb(208, 164, 136);
 }
 .TbRPG img {
-    border: 2px solid rgb(53, 75, 19);
+    border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     margin: 2px;
     position: relative;
-    top: -10px
+    top: -25px
 }
 .TbRPG ol {
-    background-color: rgb(130, 165, 81);
-    border: 2px solid rgb(53, 75, 19);
+    background-color: rgb(70, 131, 82);
+    border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     position: relative;
-    top: -264.5px;
+    top: -278.75px;
     left: 245px;
     
     width: 300px;
@@ -109,11 +124,11 @@ body {
     font-size: larger;
 }
 .TbRPG ul {
-    background-color: rgb(130, 165, 81);
-    border: 2px solid rgb(53, 75, 19);
+    background-color: rgb(70, 131, 82);
+    border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     position: relative;
-    top: -264.5px;
+    top: -279px;
     left: 245px;
     width: 300px;
 
@@ -124,7 +139,7 @@ body {
 }
 
 .PumpkinPies {
-    background-color: rgb(218, 158, 47);
+    background-color: rgb(235, 182, 84);
     color: white;
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
@@ -137,6 +152,13 @@ body {
     height: 300px;
 }
 .PumpkinPies h3 {
+    background-color: rgb(204, 157, 70);
+    border: 2px solid rgb(103, 66, 24);
+    border-radius: 3px;
+
+    padding: 5px;
+
+    width: 150px;
     position: relative;
     top: -7.5px;
     left: 10px;
@@ -153,14 +175,14 @@ body {
     border-radius: 3px;
     margin: 2px;
     position: relative;
-    top: -10px
+    top: -22.75px
 }
 .PumpkinPies ol {
-    background-color: rgb(190, 141, 51);
+    background-color: rgb(204, 157, 70);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
     position: relative;
-    top: -261px;
+    top: -276px;
     left: 245px;
     
     width: 300px;

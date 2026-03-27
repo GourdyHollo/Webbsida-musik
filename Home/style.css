@@ -27,7 +27,7 @@ body {
 
 }
 .Autumn h3 {
-    background-color: rgb(204, 157, 70);
+    background-color: rgb(183, 144, 71);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
 
@@ -53,7 +53,7 @@ body {
     top: -25px
 }
 .Autumn ol {
-    background-color: rgb(204, 157, 70);
+    background-color: rgb(183, 144, 71);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
     position: relative;
@@ -82,7 +82,7 @@ body {
     height: 300px;
 }
 .TbRPG h3 {
-    background-color: rgb(70, 131, 82);
+    background-color: rgb(64, 114, 74);
     border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
 
@@ -109,7 +109,7 @@ body {
     top: -25px
 }
 .TbRPG ol {
-    background-color: rgb(70, 131, 82);
+    background-color: rgb(64, 114, 74);
     border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     position: relative;
@@ -124,7 +124,7 @@ body {
     font-size: larger;
 }
 .TbRPG ul {
-    background-color: rgb(70, 131, 82);
+    background-color: rgb(64, 114, 74);
     border: 2px solid rgb(19, 75, 35);
     border-radius: 3px;
     position: relative;
@@ -152,7 +152,7 @@ body {
     height: 300px;
 }
 .PumpkinPies h3 {
-    background-color: rgb(204, 157, 70);
+    background-color: rgb(183, 144, 71);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
 
@@ -178,7 +178,7 @@ body {
     top: -22.75px
 }
 .PumpkinPies ol {
-    background-color: rgb(204, 157, 70);
+    background-color: rgb(183, 144, 71);
     border: 2px solid rgb(103, 66, 24);
     border-radius: 3px;
     position: relative;
